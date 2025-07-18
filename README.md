@@ -60,21 +60,14 @@
 </p>
 
 ---
+---
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=diegovq12&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=diegovq12&theme=github_dark_dimmed&hide_border=true)
-
----
-
-## 🚀 Featured Projects
-
-- [**Project 1**](#) — Breve descripción o tagline.
-- [**Project 2**](#) — Breve descripción o tagline.
-- [**Project 3**](#) — Breve descripción o tagline.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=diegovq12&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=diegovq12&theme=github_dark_dimmed&hide_border=true" />
+</p>
 
 ---
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
