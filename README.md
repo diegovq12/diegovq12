@@ -1,5 +1,3 @@
-[![](https://visitcount.itsvg.in/api?id=diegovq12&icon=8&color=8)](https://visitcount.itsvg.in)
-
 # 💫 About Me
 
 <table align="center">
