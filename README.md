@@ -9,7 +9,7 @@
       It has survived not only five centuries, but also the leap into electronic typesetting,<br>
       remaining essentially unchanged. It was popularised in the 1960s with the release of<br>
       Letraset sheets containing Lorem Ipsum passages, and more recently with desktop<br>
-      publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+      publishing software like Aldus PageMaker including versions of Lorem Ipsum
     </td>
     <td>
       <img src="https://i.pinimg.com/736x/40/cf/a2/40cfa2cd5689113e227461d071188bf0.jpg" alt="about" width="180" style="border-radius: 10px;"/>
